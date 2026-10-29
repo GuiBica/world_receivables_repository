@@ -1,0 +1,96 @@
+{
+  "rows": 300,
+  "exact_duplicates": 2,
+  "id_collisions": 3,
+  "economic_duplicates": 5,
+  "data_quality_rows": {
+    "invalid_amount": 4,
+    "non_positive_amount": 6,
+    "due_before_issue": 5,
+    "missing_currency": 8,
+    "missing_debtor": 3,
+    "invalid_issue_date": 2
+  },
+  "planted_rows": {
+    "economic_0": [
+      8,
+      149
+    ],
+    "dq_missing_currency": [
+      16,
+      37,
+      121,
+      128,
+      257,
+      286,
+      289,
+      293
+    ],
+    "dq_due_before_issue": [
+      21,
+      131,
+      197,
+      234,
+      238
+    ],
+    "economic_4": [
+      50,
+      57
+    ],
+    "dq_invalid_amount": [
+      55,
+      192,
+      254,
+      297
+    ],
+    "dq_invalid_issue_date": [
+      67,
+      175
+    ],
+    "dq_missing_debtor": [
+      76,
+      146,
+      147
+    ],
+    "dq_non_positive_amount": [
+      86,
+      88,
+      103,
+      143,
+      144,
+      217
+    ],
+    "collision_1": [
+      106,
+      127
+    ],
+    "exact_0": [
+      110,
+      169
+    ],
+    "economic_3": [
+      125,
+      160
+    ],
+    "collision_0": [
+      139,
+      179
+    ],
+    "exact_1": [
+      184,
+      244
+    ],
+    "economic_2": [
+      191,
+      248
+    ],
+    "collision_2": [
+      200,
+      278
+    ],
+    "economic_1": [
+      260,
+      273
+    ]
+  }
+}
